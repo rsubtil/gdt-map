@@ -246,8 +246,10 @@ var regions_cavacas = {
             "type": "Feature",
             "properties": {
                 "id": "cavacas - r1",
-                "name": "Região 1",
-                "color": "#058c38"
+                "name": "Escambraga",
+                "color": "#058c38",
+                "description": "Escambraga é uma região das Cavacas caracterizada por climas secos, sendo dominado por savanas. A região é famosa pelas suas serpentes, e pela lenda da cascavel gigante, que terá esculpido a região com o seu veneno e tomado a forma da Montanha Cascavel. A região é também conhecida pelas suas praias (como a Praia do Tenerife), as suas múltiplas cavernas, e pelas suas duas vilas, Panifa e Escamas.",
+                "image_id": "cavacas-r1-pi-montanha-serpente"
             },
             "geometry": {
                 "type": "Polygon",
@@ -321,8 +323,10 @@ var regions_cavacas = {
             "type": "Feature",
             "properties": {
                 "id": "cavacas - r1",
-                "name": "Região 1",
-                "color": "#058c38"
+                "name": "Escambraga",
+                "color": "#058c38",
+                "description": "Escambraga é uma região das Cavacas caracterizada por climas secos, sendo dominado por savanas. A região é famosa pelas suas serpentes, e pela lenda da cascavel gigante, que terá esculpido a região com o seu veneno e tomado a forma da Montanha Cascavel. A região é também conhecida pelas suas praias (como a Praia do Tenerife), as suas múltiplas cavernas, e pelas suas duas vilas, Panifa e Escamas.",
+                "image_id": "cavacas-r1-pi-montanha-serpente"
             },
             "geometry": {
                 "type": "Polygon",
@@ -360,8 +364,10 @@ var regions_cavacas = {
             "type": "Feature",
             "properties": {
                 "id": "cavacas - r1",
-                "name": "Região 1",
-                "color": "#058c38"
+                "name": "Escambraga",
+                "color": "#058c38",
+                "description": "Escambraga é uma região das Cavacas caracterizada por climas secos, sendo dominado por savanas. A região é famosa pelas suas serpentes, e pela lenda da cascavel gigante, que terá esculpido a região com o seu veneno e tomado a forma da Montanha Cascavel. A região é também conhecida pelas suas praias (como a Praia do Tenerife), as suas múltiplas cavernas, e pelas suas duas vilas, Panifa e Escamas.",
+                "image_id": "cavacas-r1-pi-montanha-serpente"
             },
             "geometry": {
                 "type": "Polygon",
@@ -463,8 +469,10 @@ var regions_cavacas = {
             "type": "Feature",
             "properties": {
                 "id": "cavacas - r1",
-                "name": "Região 1",
-                "color": "#058c38"
+                "name": "Escambraga",
+                "color": "#058c38",
+                "description": "Escambraga é uma região das Cavacas caracterizada por climas secos, sendo dominado por savanas. A região é famosa pelas suas serpentes, e pela lenda da cascavel gigante, que terá esculpido a região com o seu veneno e tomado a forma da Montanha Cascavel. A região é também conhecida pelas suas praias (como a Praia do Tenerife), as suas múltiplas cavernas, e pelas suas duas vilas, Panifa e Escamas.",
+                "image_id": "cavacas-r1-pi-montanha-serpente"
             },
             "geometry": {
                 "type": "Polygon",
@@ -506,8 +514,10 @@ var regions_cavacas = {
             "type": "Feature",
             "properties": {
                 "id": "cavacas - r1",
-                "name": "Região 1",
-                "color": "#058c38"
+                "name": "Escambraga",
+                "color": "#058c38",
+                "description": "Escambraga é uma região das Cavacas caracterizada por climas secos, sendo dominado por savanas. A região é famosa pelas suas serpentes, e pela lenda da cascavel gigante, que terá esculpido a região com o seu veneno e tomado a forma da Montanha Cascavel. A região é também conhecida pelas suas praias (como a Praia do Tenerife), as suas múltiplas cavernas, e pelas suas duas vilas, Panifa e Escamas.",
+                "image_id": "cavacas-r1-pi-montanha-serpente"
             },
             "geometry": {
                 "type": "Polygon",
@@ -553,8 +563,10 @@ var regions_cavacas = {
             "type": "Feature",
             "properties": {
                 "id": "cavacas - r1",
-                "name": "Região 1",
-                "color": "#058c38"
+                "name": "Escambraga",
+                "color": "#058c38",
+                "description": "Escambraga é uma região das Cavacas caracterizada por climas secos, sendo dominado por savanas. A região é famosa pelas suas serpentes, e pela lenda da cascavel gigante, que terá esculpido a região com o seu veneno e tomado a forma da Montanha Cascavel. A região é também conhecida pelas suas praias (como a Praia do Tenerife), as suas múltiplas cavernas, e pelas suas duas vilas, Panifa e Escamas.",
+                "image_id": "cavacas-r1-pi-montanha-serpente"
             },
             "geometry": {
                 "type": "Polygon",
@@ -871,8 +883,10 @@ var regions_cavacas = {
             "type": "Feature",
             "properties": {
                 "id": "cavacas - r1",
-                "name": "Região 1",
-                "color": "#058c38"
+                "name": "Escambraga",
+                "color": "#058c38",
+                "description": "Escambraga é uma região das Cavacas caracterizada por climas secos, sendo dominado por savanas. A região é famosa pelas suas serpentes, e pela lenda da cascavel gigante, que terá esculpido a região com o seu veneno e tomado a forma da Montanha Cascavel. A região é também conhecida pelas suas praias (como a Praia do Tenerife), as suas múltiplas cavernas, e pelas suas duas vilas, Panifa e Escamas.",
+                "image_id": "cavacas-r1-pi-montanha-serpente"
             },
             "geometry": {
                 "type": "Polygon",
