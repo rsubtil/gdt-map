@@ -13,8 +13,8 @@ var interactive_map = new InteractiveMap('map', {
     max_good_zoom: 6,
     // This is the max zoom the map will allow
     max_map_zoom: 7,
-    website_source: 'https://github.com/interactive-game-maps/template',
-    website_subdir: 'template',
+    website_source: 'https://rsubtil.github.io/gdt-map',
+    website_subdir: 'gdt-map',
     attribution: `
     <li><a href="https://www.example.com/index.html">$Thing</a> used by <a href="https://www.example.com/index.html">$person</a> under <a href="https://www.example.com/index.html">$license</a></li>
     <li>This project uses sample images from <a href="https://picsum.photos/">picsum.photos</a></li>
