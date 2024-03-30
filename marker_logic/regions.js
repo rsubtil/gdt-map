@@ -40,7 +40,7 @@ function addRegions(map) {
                 click: event => {
 
                     // This layer gets a popup which also does some additional stuff…
-                    this.zoomToFeature(feature.properties.id);
+                    //this.zoomToFeature(feature.properties.id);
 
                     // …which can be manually included if no popup is generated:
                     // map.share_marker.prevent();
