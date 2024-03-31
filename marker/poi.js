@@ -5,7 +5,8 @@ var poi = {
             "type": "Feature",
             "properties": {
                 "id": "cavacas-r1-pi-5-colinas",
-                "name": "5 Colinas"
+                "name": "5 Colinas",
+                "description": "As 5 Colinas são um conjunto de montes que se formaram em bastante proximidade. É bastante difícil tal formação ter uma origem natural, e os locais afirmam que na verdade era um grande monte que foi lentamente esculpido pela grande cascavel, tendo-se tornado um sítio predileto desta, segundo dizem, para se coçar."
             },
             "geometry": {
                 "type": "Point",

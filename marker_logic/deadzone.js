@@ -34,29 +34,8 @@ function addDeadzone(map) {
                 },
                 mouseout: event => {
                     this.removeFeatureHighlight(feature.properties.id);
-                },
-
-                // Clicking on the layer zooms to it
-                click: event => {
-
-                    // This layer gets a popup which also does some additional stuff…
-                    this.zoomToFeature(feature.properties.id);
-
-                    // …which can be manually included if no popup is generated:
-                    // map.share_marker.prevent();
-                    // Utils.setHistoryState(this.id, feature.properties.id);
                 }
             });
-
-            // Bind a tooltip which follows the mouse around when hovering over a feature that
-            // isn't a point (marker)
-            if (feature.geometry.type != "Point") {
-
-                // https://leafletjs.com/reference.html#layer-bindtooltip
-                layer.bindTooltip(feature.properties.name, {
-                    sticky: true
-                });
-            }
         },
 
         // We don't have created a custom icon so let's use a generic one from Font Awesome
@@ -90,8 +69,9 @@ function addDeadzone(map) {
         // https://leafletjs.com/reference.html#path-option
         polygon_style: function (feature) {
             return {
-                color: "red",
-                opacity: 0.2
+                fillColor: "darkred",
+                fillOpacity: 0.7,
+                opacity: 0.0,
             };
         },
 
@@ -101,10 +81,9 @@ function addDeadzone(map) {
         // https://leafletjs.com/reference.html#path-option
         polygon_style_highlight: function (feature) {
             return {
-                color: "red",
-                opacity: 0.8,
-                fillColor: "red",
-                fillOpacity: 0.3
+                fillColor: "darkred",
+                fillOpacity: 0.2,
+                opacity: 0.0,
             };
         },
     });
