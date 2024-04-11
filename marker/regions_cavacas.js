@@ -482,7 +482,9 @@ var regions_cavacas = {
             "type": "Feature",
             "properties": {
                 "id": "cavacas - r2",
-                "name": "Região 2",
+                "name": "Calicosta",
+                "description": "A Calicosta é uma região das Cavacas caracterizada por uma região relativamente estreita, circundada dum lado por uma larga costa, e doutro pela grande barreira. Apesar de a região continuar a ser bastante quente devido aos ventos quentes de Escambraga, esta região é mais húmida e chuvosa, com uma grande selva e mangue perto dessa região. Na metade superior, o clima já é mais fresco e o terreno coberto de florestas. Praticamente despovoada, conta com apenas um aldeamento, o Aldeamento Moscardo, que se encontra geograficamente no ponto mais ocidental do mundo.",
+                "image_id": "cavacas-r2-poi-x2",
                 "color": "#ffba27"
             },
             "geometry": {

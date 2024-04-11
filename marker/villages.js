@@ -28,6 +28,20 @@ var villages = {
                     -94.953125
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-aldeamento-x1",
+                "name": "Aldeamento Moscardo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.851563,
+                    -65.335937
+                ]
+            }
         }
     ]
 }

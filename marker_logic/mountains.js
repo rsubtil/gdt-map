@@ -86,6 +86,8 @@ function addMountains(map) {
                     break;
                 case 'caverna':
                 case 'gruta':
+                case 'fossa':
+                case 'cova':
                     icon = 'fa-gem';
                     break;
                 case 'ravina':

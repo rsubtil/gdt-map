@@ -665,6 +665,532 @@ var waters = {
                     -94.871094
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-ribeira-x1",
+                "name": "Ribeira Granja"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        9.103516,
+                        -80.976562
+                    ],
+                    [
+                        9.121094,
+                        -80.630859
+                    ],
+                    [
+                        9.349609,
+                        -80.457031
+                    ],
+                    [
+                        9.373047,
+                        -80.328125
+                    ],
+                    [
+                        9.613281,
+                        -80.220703
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-fonte-x2",
+                "name": "Fonte Granja"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.103516,
+                    -80.976562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-cataratas-x2",
+                "name": "Cataratas As Fochancas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.21875,
+                    -79.570312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-cataratas-x1",
+                "name": "Cataratas Talo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.535156,
+                    -92.007812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-baia-x2",
+                "name": "Baía da Manta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.484375,
+                    -86.3125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-baia-x3",
+                "name": "Baía Peava"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.65625,
+                    -80.476562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-lago-x1",
+                "name": "Lagoa do Caracol"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.570313,
+                    -91.148437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-lagoa-x2",
+                "name": "Lagoa Talo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.291016,
+                    -91.753906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-lagoa-x1",
+                "name": "Ramato"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.273438,
+                    -91.185547
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-fonte-x1",
+                "name": "Fonte do Ramato"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.392578,
+                    -91.138672
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-rio-x1",
+                "name": "Rio da Barranha"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        5.800781,
+                        -76.753906
+                    ],
+                    [
+                        6.542969,
+                        -76.351562
+                    ],
+                    [
+                        6.351563,
+                        -75.773437
+                    ],
+                    [
+                        6.734375,
+                        -74.890625
+                    ],
+                    [
+                        6.585938,
+                        -74.242187
+                    ],
+                    [
+                        7.429688,
+                        -74.257812
+                    ],
+                    [
+                        8.601563,
+                        -73.890625
+                    ],
+                    [
+                        10.109375,
+                        -73.890625
+                    ],
+                    [
+                        11.132813,
+                        -73.710937
+                    ],
+                    [
+                        10.109375,
+                        -73.888672
+                    ],
+                    [
+                        8.597656,
+                        -73.882812
+                    ],
+                    [
+                        7.429688,
+                        -74.257812
+                    ],
+                    [
+                        6.587891,
+                        -74.244141
+                    ],
+                    [
+                        6.410156,
+                        -73.537109
+                    ],
+                    [
+                        5.800781,
+                        -73.015625
+                    ],
+                    [
+                        4.40625,
+                        -72.546875
+                    ],
+                    [
+                        3.089844,
+                        -72.445312
+                    ],
+                    [
+                        3.128906,
+                        -71.105469
+                    ],
+                    [
+                        3.65625,
+                        -70.808594
+                    ],
+                    [
+                        4.199219,
+                        -70.328125
+                    ],
+                    [
+                        4.4375,
+                        -70.21875
+                    ],
+                    [
+                        4.546875,
+                        -70.070312
+                    ],
+                    [
+                        4.675781,
+                        -69.960937
+                    ],
+                    [
+                        4.867188,
+                        -69.878906
+                    ],
+                    [
+                        5.257813,
+                        -69.996094
+                    ],
+                    [
+                        5.800781,
+                        -69.816406
+                    ],
+                    [
+                        6.210938,
+                        -69.402344
+                    ],
+                    [
+                        6.933594,
+                        -69.558594
+                    ],
+                    [
+                        7.742188,
+                        -69.628906
+                    ],
+                    [
+                        9.152344,
+                        -69.277344
+                    ],
+                    [
+                        7.742188,
+                        -69.628906
+                    ],
+                    [
+                        6.933594,
+                        -69.5625
+                    ],
+                    [
+                        6.210938,
+                        -69.398437
+                    ],
+                    [
+                        5.800781,
+                        -69.824219
+                    ],
+                    [
+                        5.257813,
+                        -70
+                    ],
+                    [
+                        4.871094,
+                        -69.878906
+                    ],
+                    [
+                        4.683594,
+                        -69.960937
+                    ],
+                    [
+                        4.546875,
+                        -70.068359
+                    ],
+                    [
+                        4.4375,
+                        -70.21875
+                    ],
+                    [
+                        4.203125,
+                        -70.328125
+                    ],
+                    [
+                        3.65625,
+                        -70.8125
+                    ],
+                    [
+                        3.132813,
+                        -71.109375
+                    ],
+                    [
+                        3.09375,
+                        -72.445312
+                    ],
+                    [
+                        4.410156,
+                        -72.550781
+                    ],
+                    [
+                        5.800781,
+                        -73.015625
+                    ],
+                    [
+                        6.410156,
+                        -73.533203
+                    ],
+                    [
+                        6.587891,
+                        -74.244141
+                    ],
+                    [
+                        6.734375,
+                        -74.890625
+                    ],
+                    [
+                        6.349609,
+                        -75.771484
+                    ],
+                    [
+                        6.542969,
+                        -76.347656
+                    ],
+                    [
+                        7.4375,
+                        -76.832031
+                    ],
+                    [
+                        8.289063,
+                        -77.347656
+                    ],
+                    [
+                        9.019531,
+                        -77.785156
+                    ],
+                    [
+                        10.464844,
+                        -77.726562
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-fonte-x5",
+                "name": "Fonte da Barranha"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    5.800781,
+                    -76.775391
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-poca-x2",
+                "name": "Mandolo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.089844,
+                    -68.988281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-poca-x3",
+                "name": "Poca da Amoreira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.148438,
+                    -66.011719
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-poca-x1",
+                "name": "Poça Estolda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.230469,
+                    -73.597656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-lagoa-x6",
+                "name": "Lagoa da Lumaga"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.310547,
+                    -85.271484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-lago-x2",
+                "name": "Lagoa Burbirija"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.304688,
+                    -87.242187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-lagoa-x4",
+                "name": "Lagoa dos Credos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.4375,
+                    -87.460937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-lagoa-x3",
+                "name": "Lagoa Acoplo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.359375,
+                    -87.847656
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-baia-x1",
+                "name": "Baía Estadeia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.539063,
+                    -90.351562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-lagoa-x5",
+                "name": "Lagoa Entoo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.285156,
+                    -83.367187
+                ]
+            }
         }
     ]
 }

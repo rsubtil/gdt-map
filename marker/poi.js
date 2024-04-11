@@ -30,6 +30,66 @@ var poi = {
                     -97.113281
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-poi-x1",
+                "name": "Aldeamento Moscardo",
+                "description": "Este aldeamento, embora pequeno e sem grande destaque, tem uma particularidade que a torna única: é a povoação mais ocidental do mundo. A sua proximidade à grande fronteira torna-a também um local interessante e de fácil acesso para explorar este fenómeno."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.5625,
+                    -66.875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-poi-x2",
+                "name": "Pico de Madeira",
+                "description": "A 150 blocos de altitude, esta árvore da selva, que por si só já é bastante alta, conseguiu desenvolver-se num pedaço flutuante e pequeno de terreno a grande altitude. De acesso praticamente impossível, torna-se um fenómeno interessante de presenciar, e um importante lembrete da força da natureza."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.488284,
+                    -83.652334
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-poi-x4",
+                "name": "Cataratas Talo",
+                "description": "Estas cataratas formam um grande lago no centro duma deformação do Monte Liorça, e são duma beleza única. A água deste lago cai posteriormente numa enorme ravina dotada de grutas, o que torna este local bastante perigoso para qualquer turismo balnear. Por isso, é um destino de eleição para os mais aventureiros."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.3125,
+                    -91.71875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-poi-x3",
+                "name": "Lagoa do Caracol",
+                "description": "Esta lagoa possui este nome devido ao monólito que se encontra neste local, que tem uma forma semelhante à de um caracol. Além de ser um lago seguro para banhos, este local permite também que se façam mergulhos com uma altitude considerável, mas com segurança devido à profundidade da lagoa."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.765625,
+                    -91.1875
+                ]
+            }
         }
     ]
 }

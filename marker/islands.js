@@ -84,6 +84,34 @@ var islands = {
                     -98.203125
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-ilha-x1",
+                "name": "Ilha Ibira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.9375,
+                    -76.0625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r2-ilha-x2",
+                "name": "Ajunta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.09375,
+                    -72.15625
+                ]
+            }
         }
     ]
 }
