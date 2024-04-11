@@ -12,7 +12,7 @@ var interactive_map = new InteractiveMap('map', {
     // This will limit automatic zooming to this zoom level
     max_good_zoom: 6,
     // This is the max zoom the map will allow
-    max_map_zoom: 9,
+    max_map_zoom: 7,
     website_source: 'https://rsubtil.github.io/gdt-map',
     website_subdir: 'gdt-map',
     attribution: `
@@ -29,7 +29,7 @@ var interactive_map = new InteractiveMap('map', {
 // `./gdal2tiles.py -l -p raster -w none -z 3-5 full_map.jpg map_tiles`
 interactive_map.addTileLayer('Ingame map', {
     minNativeZoom: 0,
-    maxNativeZoom: 7,
+    maxNativeZoom: 6,
     attribution: 'Map from <a href="https://www.example.com/index.html">$source</a>'
 });
 
