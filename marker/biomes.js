@@ -266,6 +266,132 @@ var biomes = {
                     -78.992187
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-planalto-x1",
+                "name": "Planalto Marranheiro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.375,
+                    -46.265625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-floresta-x1",
+                "name": "Floresta Cinzenta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.9375,
+                    -50.28125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-mata-x1",
+                "name": "Mata da Bonda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.359375,
+                    -55.015625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-bosque-x1",
+                "name": "Bosque do Formol"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.3125,
+                    -56.25
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-floresta-x2",
+                "name": "Floresta do Limo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.859375,
+                    -59
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-pantano-x1",
+                "name": "Pântano Coalheira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.640625,
+                    -47.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-bosque-x2",
+                "name": "Bosque da Preguiça"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.671875,
+                    -48.265625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-mata-x2",
+                "name": "Mata da Lapa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.875,
+                    -44.046875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-bosque-x3",
+                "name": "Bosque Agnado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.25,
+                    -42.140625
+                ]
+            }
         }
     ]
 }

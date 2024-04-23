@@ -1008,6 +1008,818 @@ var mountains = {
                     -84.59375
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-montanha-x1",
+                "name": "Montanha Acerto"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.765625,
+                    -42.625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-montanha-x2",
+                "name": "Montanha do Mirro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.625,
+                    -56.71875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-montanha-x3",
+                "name": "Estrepa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.015625,
+                    -60.554687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-monolito-x1",
+                "name": "Monólito Cavalga"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.71875,
+                    -58.882812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-montanha-x5",
+                "name": "Concluio"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17,
+                    -57.398437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-montanha-x6",
+                "name": "Montanha da Sina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.671875,
+                    -59.296875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-serra-x1",
+                "name": "Serra Suíça"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.304688,
+                    -57.382812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-monte-x1",
+                "name": "Monte Fartita"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.335938,
+                    -50.148437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-monte-x2",
+                "name": "Pulga"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.257813,
+                    -46.070312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-colina-x1",
+                "name": "Colina Miza"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.109375,
+                    -50.929687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-monte-x3",
+                "name": "Polegada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.304688,
+                    -49.601562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-monte-x4",
+                "name": "Monte Tomário"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.15625,
+                    -55.179687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-pico-x1",
+                "name": "Pico do Mirro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.203125,
+                    -57.046875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-pico-x2",
+                "name": "Pico do Cavalo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.90625,
+                    -58.84375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-vale-x1",
+                "name": "Vale do Cuziote"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.539063,
+                    -48.09375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-vale-x2",
+                "name": "Vale dos Poetas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.664063,
+                    -46.703125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-vale-x3",
+                "name": "Vale Minora"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.390625,
+                    -56.929687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-vale-x4",
+                "name": "Vale do Casulo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.398438,
+                    -58.578125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-vale-x5",
+                "name": "Dente de Pedra"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.15625,
+                    -58.21875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-desfiladeiro-x1",
+                "name": "Desfiladeiro do Luar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.351563,
+                    -57.914062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-caverna-x1",
+                "name": "Caverna Fita"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.140625,
+                    -49.242187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-caverna-x2",
+                "name": "Caverna da Quina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.890625,
+                    -48.992187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-gruta-x1",
+                "name": "Gruta Dorante"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.265625,
+                    -49.039062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-cova-x1",
+                "name": "Cova da Lupa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.84375,
+                    -44.742187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-fossa-x1",
+                "name": "Fossa da Catura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.820313,
+                    -41.9375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-fossa-x2",
+                "name": "Fossa Tiala"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.578125,
+                    -45.914062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-cova-x2",
+                "name": "Cova dos Bois"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.234375,
+                    -45.828125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-gruta-x2",
+                "name": "Gruta Piáfa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.320313,
+                    -45.296875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-gruta-x3",
+                "name": "Gruta Greles"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.007813,
+                    -47.21875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-fossa-x3",
+                "name": "Fossa Drada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.523438,
+                    -47.539062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-caverna-x3",
+                "name": "Caverna Salga"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.242188,
+                    -48.75
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-caverna-x4",
+                "name": "Caverna do Rei"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.148438,
+                    -49.601562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-cova-x3",
+                "name": "Cova Logia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.882813,
+                    -49.085937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-fossa-x4",
+                "name": "Fossa Iliga"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.1875,
+                    -48.875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-caverna-x5",
+                "name": "Canudo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.796875,
+                    -48.484375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-fossa-x5",
+                "name": "Fossa Deprensa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.375,
+                    -47.875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-cova-x4",
+                "name": "Adimplente"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.617188,
+                    -47.742187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-gruta-x4",
+                "name": "Gruta dos Sonhos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.460938,
+                    -47.601562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-caverna-x6",
+                "name": "Caverna Poio"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.070313,
+                    -49.710937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-gruta-x5",
+                "name": "Gruta Granel"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.257813,
+                    -49.695312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-caverna-x7",
+                "name": "Caverna Umente"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.476563,
+                    -50.210937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-gruta-x6",
+                "name": "Gruta da Barda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.898438,
+                    -50.90625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-caverna-x8",
+                "name": "Caverna Radila"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.375,
+                    -51.203125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-cova-x5",
+                "name": "Cova Segundo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.53125,
+                    -51.9375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-tunel-x1",
+                "name": "Túnel Doude"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.789063,
+                    -60.828125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-fossa-x6",
+                "name": "Fossa Palejas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.25,
+                    -59.5625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-caverna-x9",
+                "name": "Caverna Alter"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.789063,
+                    -58.773437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-gruta-x7",
+                "name": "Gruta Conselha"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.453125,
+                    -56.742187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-tunel-x2",
+                "name": "Túnel da Piedade"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.601563,
+                    -57.195312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-tunel-x3",
+                "name": "Túnel Minho"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.484375,
+                    -57.289062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-tunel-x4",
+                "name": "Túnel do Turbante"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.046875,
+                    -57.679687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-tunel-x5",
+                "name": "Cebola"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.140625,
+                    -59.578125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-tunel-x6",
+                "name": "Túnel Bumera"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.578125,
+                    -57.617187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-cova-x6",
+                "name": "Jepe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.046875,
+                    -56.351562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-arco-x1",
+                "name": "Arco Alucado"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.671875,
+                    -41.921875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-arco-x2",
+                "name": "Arco da Mica"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.492188,
+                    -58.421875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-arco-x3",
+                "name": "Arco Milita"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.9375,
+                    -59.023437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-gruta-x8",
+                "name": "Gruta Velha"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.867188,
+                    -50.648437
+                ]
+            }
         }
     ]
 }

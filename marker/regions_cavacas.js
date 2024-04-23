@@ -779,8 +779,10 @@ var regions_cavacas = {
             "type": "Feature",
             "properties": {
                 "id": "cavacas - r3",
-                "name": "Região 3",
-                "color": "#da2eb1"
+                "name": "Verdalma",
+                "description": "Verdalma é a região centro das Cavacas, coberta predominantemente por um grande pântano. É uma região selvagem e sem nenhum aldeamento, mas com paisagens únicas e formações de montanha interessantes.",
+                "color": "#da2eb1",
+                "image_id": "cavacas-r3-poi-x1"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1198,8 +1200,10 @@ var regions_cavacas = {
             "type": "Feature",
             "properties": {
                 "id": "cavacas - r3",
-                "name": "Região 3",
-                "color": "#da2eb1"
+                "name": "Verdalma",
+                "description": "Verdalma é a região centro das Cavacas, coberta predominantemente por um grande pântano. É uma região selvagem e sem nenhum aldeamento, mas com paisagens únicas e formações de montanha interessantes.",
+                "color": "#da2eb1",
+                "image_id": "cavacas-r3-poi-x1"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1281,8 +1285,10 @@ var regions_cavacas = {
             "type": "Feature",
             "properties": {
                 "id": "cavacas - r3",
-                "name": "Região 3",
-                "color": "#da2eb1"
+                "name": "Verdalma",
+                "description": "Verdalma é a região centro das Cavacas, coberta predominantemente por um grande pântano. É uma região selvagem e sem nenhum aldeamento, mas com paisagens únicas e formações de montanha interessantes.",
+                "color": "#da2eb1",
+                "image_id": "cavacas-r3-poi-x1"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1311,6 +1317,47 @@ var regions_cavacas = {
                         [
                             13.802734,
                             -61.185953
+                        ]
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas - r3",
+                "name": "Verdalma",
+                "description": "Verdalma é a região centro das Cavacas, coberta predominantemente por um grande pântano. É uma região selvagem e sem nenhum aldeamento, mas com paisagens únicas e formações de montanha interessantes.",
+                "color": "#da2eb1",
+                "image_id": "cavacas-r3-poi-x1"
+            },
+            "geometry": {
+                "type": "Polygon",
+                "coordinates": [
+                    [
+                        [
+                            17.554688,
+                            -60.914062
+                        ],
+                        [
+                            17.40625,
+                            -61.304687
+                        ],
+                        [
+                            17.726563,
+                            -61.632812
+                        ],
+                        [
+                            18.117188,
+                            -61.359375
+                        ],
+                        [
+                            18.210938,
+                            -60.789062
+                        ],
+                        [
+                            17.554688,
+                            -60.914062
                         ]
                     ]
                 ]

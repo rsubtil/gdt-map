@@ -1191,6 +1191,376 @@ var waters = {
                     -83.367187
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-fonte-x1",
+                "name": "Fonte Cassava"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.767504,
+                    -42.362169
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-fonte-x2",
+                "name": "Fonte Futica"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.197191,
+                    -42.580919
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-fonte-x3",
+                "name": "Enchente"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.203125,
+                    -56.65625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-fonte-x4",
+                "name": "Fonte da Lúcia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.28125,
+                    -57.101562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-regato-x1",
+                "name": "Regato da Lúcia"
+            },
+            "geometry": {
+                "type": "LineString",
+                "coordinates": [
+                    [
+                        15.28125,
+                        -57.101562
+                    ],
+                    [
+                        15.429688,
+                        -56.820312
+                    ]
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-cabo-x1",
+                "name": "Cabo Alqueivão"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.421875,
+                    -53.460937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-cabo-x2",
+                "name": "Cabo Adjunto"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.984375,
+                    -54.109375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-golfo-x1",
+                "name": "Golfo da Clara"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.648438,
+                    -51.703125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-baia-x1",
+                "name": "Baía Videira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.046875,
+                    -59.984375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-baia-x2",
+                "name": "Baía Forrolho"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.507813,
+                    -60.195312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-lagoa-x1",
+                "name": "Alantre"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.140625,
+                    -49.164062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-lago-x1",
+                "name": "Lumiar"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    9.046875,
+                    -47.023437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-lago-x2",
+                "name": "Lago Ucanha"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    6.234375,
+                    -44.492187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-lago-x3",
+                "name": "Sardinho"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    10.765625,
+                    -44.953125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-lagoa-x2",
+                "name": "Lagoa Aregos"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.84375,
+                    -41.632812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-charco-x1",
+                "name": "Charco da Tanha"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.523438,
+                    -41.257812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-poca-x1",
+                "name": "Poça Anta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.40625,
+                    -44.328125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-lagoa-x3",
+                "name": "Nogueiró"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.265625,
+                    -44.40625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-lagoa-x4",
+                "name": "Lagoa do Espindo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.148438,
+                    -45.171875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-poca-x2",
+                "name": "Ermal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.039063,
+                    -44.328125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-lagoa-x5",
+                "name": "Lagoa Avento"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.710938,
+                    -52.289062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-lagoa-x6",
+                "name": "Queimadela"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.710938,
+                    -50.945312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-lagoa-x7",
+                "name": "Lagoa do Bugio"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.984375,
+                    -58.710937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-lagoa-x8",
+                "name": "Lagoa Langra"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.367188,
+                    -58.492187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-lago-x4",
+                "name": "Lagoa Serafim"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.226563,
+                    -57.460937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-charco-x2",
+                "name": "Rebordelo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.46875,
+                    -59.5625
+                ]
+            }
         }
     ]
 }

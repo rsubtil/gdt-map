@@ -90,6 +90,36 @@ var poi = {
                     -91.1875
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-poi-x1",
+                "name": "Serra Suíça",
+                "description": "A Serra Suíça é um conjunto de montanhas em grande proximidade que formaram diversos relevos de bastante interesse. Recheada de arcos, lagos, túneis e grutas, é um local de eleição para os mais aventureiros e exploradores, oferencendo diversas paisagens deslumbrantes."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.054688,
+                    -57.257812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-poi-x2",
+                "name": "Lagoa Aregos",
+                "description": "Esta lagoa, esculpida pela Montanha Acerto, encontra-se quase na totalidade coberta pela montanha, proporcionando um local de banhos bastante seguro e tranquilo, com poucas correntes de água. De salientar, no entanto, que devido à sua fraca exposição solar, a água é gelada."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.851563,
+                    -41.59375
+                ]
+            }
         }
     ]
 }

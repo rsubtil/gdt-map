@@ -112,6 +112,48 @@ var islands = {
                     -72.15625
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-ilheu-x1",
+                "name": "Ruga"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.734375,
+                    -61.414062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-ilheu-x2",
+                "name": "Ilhéu da Fadiga"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.804688,
+                    -61.304687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r3-ilha-x1",
+                "name": "Anzola"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.34375,
+                    -52.859375
+                ]
+            }
         }
     ]
 }
