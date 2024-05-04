@@ -392,6 +392,216 @@ var biomes = {
                     -42.140625
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-planicie-x1",
+                "name": "Planície Secunda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.046875,
+                    -22.953125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-planalto-x1",
+                "name": "Planalto Rosário"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.273438,
+                    -31.265625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-floresta-x1",
+                "name": "Floresta Vimaral"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.1875,
+                    -28.6875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-bosque-x1",
+                "name": "Bosque da Canela"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.34375,
+                    -37.21875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-floresta-x2",
+                "name": "Floresta do Torso"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.25,
+                    -35.4375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-bosque-x2",
+                "name": "Lamento"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.5625,
+                    -36.4375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-mata-x1",
+                "name": "Mata Tinalha"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.71875,
+                    -38.96875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-bosque-x3",
+                "name": "Bosque da Malhada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.4375,
+                    -18.40625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-taiga-x1",
+                "name": "Taiga Sarzeda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.21875,
+                    -32.5
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-praia-x1",
+                "name": "Praia da Tocha"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.664063,
+                    -44.53125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-praia-x2",
+                "name": "Praia Esteva"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.09375,
+                    -42.351562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-praia-x3",
+                "name": "Praia Ruiva"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.234375,
+                    -34.765625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-praia-x4",
+                "name": "Praia Formosa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.234375,
+                    -31.507812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-praia-x5",
+                "name": "Arial Ângela"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    28.28125,
+                    -30.507812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-praia-x6",
+                "name": "Murtosa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.1875,
+                    -25.820312
+                ]
+            }
         }
     ]
 }

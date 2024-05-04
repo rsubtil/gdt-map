@@ -84,6 +84,9 @@ function addVillages(map) {
                 case 'torre':
                     icon = 'fa-tower-observation';
                     break;
+                case 'naufragio':
+                    icon = 'fa-sailboat';
+                    break;
                 default:
                     icon = 'fa-house';
                     break;

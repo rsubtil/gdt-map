@@ -1820,6 +1820,1042 @@ var mountains = {
                     -50.648437
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-montanha-x1",
+                "name": "Montanha Faílde"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.914063,
+                    -31.4375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-montanha-x2",
+                "name": "Moimenta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.875,
+                    -28.828125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-montanha-x3",
+                "name": "Tornozelo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.546875,
+                    -19.765625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-monolito-x1",
+                "name": "Monólito Salvador"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.679688,
+                    -45.625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-monte-x1",
+                "name": "Monte Chinguela"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.1875,
+                    -40.140625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-colina-x1",
+                "name": "Colina Coleja"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.179688,
+                    -39.875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-monte-x2",
+                "name": "Crisália"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.164063,
+                    -19.859375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-vale-x1",
+                "name": "Vale Recurra"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.226563,
+                    -32.273437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-monte-x3",
+                "name": "Monte Judias"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.062501,
+                    -28.84375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-ravina-x1",
+                "name": "Navalho"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.609375,
+                    -37.117187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-caverna-x1",
+                "name": "Caverna Poio"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.453125,
+                    -36.976562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-caverna-x2",
+                "name": "Cabrita"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    7.851563,
+                    -37.335937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-fossa-x1",
+                "name": "Fossa da Sapinha"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.148438,
+                    -43.476562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-gruta-x1",
+                "name": "Gruta da Almendra"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.695313,
+                    -40
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-gruta-x2",
+                "name": "Gruta da Pimenta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.125,
+                    -35.429687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-caverna-x3",
+                "name": "Caverna Gamboa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.648438,
+                    -35.578125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-tunel-x1",
+                "name": "Túnel do Cunho"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.234375,
+                    -35.828125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-cova-x1",
+                "name": "Cova Penha"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.84375,
+                    -35.484375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-tunel-x2",
+                "name": "Túnel Incha"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.960938,
+                    -34.757812
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-cova-x2",
+                "name": "Cova Roedo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.015625,
+                    -34.9375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-falha-x1",
+                "name": "Falha de São Pedro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.78125,
+                    -34.53125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-fossa-x2",
+                "name": "Oligarca"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.570313,
+                    -34.210937
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-caverna-x4",
+                "name": "Pasma"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.523438,
+                    -34.921875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-tunel-x3",
+                "name": "Túnel Puluh"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.398438,
+                    -35.539062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-cova-x3",
+                "name": "Cova Valbom"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.75,
+                    -35.140625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-caverna-x5",
+                "name": "Souro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.265625,
+                    -34.945312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-gruta-x3",
+                "name": "Gruta da Aveia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    15.742188,
+                    -33.515625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-fossa-x4",
+                "name": "Espedrada"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.492188,
+                    -32.875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-cova-x4",
+                "name": "Cova da Ermida"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.460938,
+                    -32.953125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-fossa-x5",
+                "name": "Fossa Caroço"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.552734,
+                    -32.333984
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-cova-x5",
+                "name": "Cova do Moço"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.289063,
+                    -31.445312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-caverna-x6",
+                "name": "Ambom"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.580078,
+                    -32.351562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-gruta-x4",
+                "name": "Gruta Litorre"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.111328,
+                    -30.689453
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-fossa-x6",
+                "name": "Fossa Itina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.150391,
+                    -31.744141
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-cova-x6",
+                "name": "Cova dos Azares"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.791016,
+                    -30.236328
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-gruta-x5",
+                "name": "Ratoeira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.738281,
+                    -29.794922
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-gruta-x6",
+                "name": "Gruta do Celorico"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.236328,
+                    -29.451172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-cova-x7",
+                "name": "Telheiro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    11.978516,
+                    -29.353516
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-fossa-x7",
+                "name": "Fossa da Marvela"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    13.248047,
+                    -29.402344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-cova-x8",
+                "name": "Fuinhas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.654297,
+                    -30.910156
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-arco-x1",
+                "name": "Arco Verde"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    12.050781,
+                    -27.238281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-tunel-x4",
+                "name": "Túnel da Barreira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.664063,
+                    -45.75
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-vale-x2",
+                "name": "Vale Mosta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.25,
+                    -45.492187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-gruta-x7",
+                "name": "Gruta Dondelas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.916016,
+                    -40.914062
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-caverna-x7",
+                "name": "Caverna do Cortiçol"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.007813,
+                    -39.871094
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-gruta-x8",
+                "name": "Coruche"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.322266,
+                    -40.232422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-ravina-x2",
+                "name": "Ravina Rapina"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.84375,
+                    -36.863281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-caverna-x8",
+                "name": "Cabestreiro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.847656,
+                    -37.253906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-cova-x9",
+                "name": "Cova Sernance"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.919922,
+                    -33.78125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-fossa-x8",
+                "name": "Fossa Sanches"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.986328,
+                    -31.802734
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-cova-x10",
+                "name": "Cunha"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.107422,
+                    -31.232422
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-fossa-x9",
+                "name": "Sebadelhe"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.341797,
+                    -28.951172
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-cova-x11",
+                "name": "Gens"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.863281,
+                    -27.277344
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-gruta-x9",
+                "name": "Gruta do Pereiro"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.009766,
+                    -29.533203
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-fossa-x10",
+                "name": "Fossa Laborinha"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.283203,
+                    -28.453125
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-caverna-x9",
+                "name": "Caverna Carregal"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.525391,
+                    -25.074219
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-caverna-x10",
+                "name": "Lamosa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    16.947266,
+                    -25.195312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-gruta-x10",
+                "name": "Marta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    20.316406,
+                    -24.25
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-gruta-x11",
+                "name": "Gruta do Viduinho"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.765625,
+                    -24.808594
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-caverna-x11",
+                "name": "Caverna Caetano"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.882813,
+                    -25.082031
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-falha-x2",
+                "name": "Falha Alvite"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.085938,
+                    -22.679687
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-vale-x3",
+                "name": "Vale Rechã"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    24.476563,
+                    -21.066406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-tunel-x5",
+                "name": "Túnel Monteira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    19.746094,
+                    -21.066406
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-gruta-x12",
+                "name": "Gruta Codeçais"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.414063,
+                    -20.242187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-caverna-x12",
+                "name": "Caverna Valhosa"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.542969,
+                    -19.863281
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-gruta-x13",
+                "name": "Gruta do Velhote"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    17.617188,
+                    -20.65625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-cova-x12",
+                "name": "Rossão"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    18.65625,
+                    -23.867187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-caverna-x13",
+                "name": "Caverna Sobreda"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.03125,
+                    -19.875
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-fossa-x11",
+                "name": "Fossa Crasto"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.320313,
+                    -18.765625
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-fossa-x12",
+                "name": "Moimenta"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.378906,
+                    -17.648437
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-caverna-x14",
+                "name": "Caverna Tendais"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.046875,
+                    -16.503906
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-cova-x13",
+                "name": "Cova do Bustelo"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.515625,
+                    -33.396484
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-cratera-x1",
+                "name": "Cratera da Pertença"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.349609,
+                    -26.175781
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-arco-x2",
+                "name": "Arco da Nespereira"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    25.5,
+                    -19.890625
+                ]
+            }
         }
     ]
 }

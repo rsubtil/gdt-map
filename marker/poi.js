@@ -120,6 +120,36 @@ var poi = {
                     -41.59375
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-poi-x1",
+                "name": "Cabestreiro",
+                "description": "Esta caverna é dotada duma biodiversidade extremamente invulgar, sendo objeto de estudo ativo por parte de biólogos e cientistas. De acesso extremamente difícil e perigoso, a sua beleza e riqueza naturais são um verdadeiro tesouro escondido."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    22.734375,
+                    -37.070312
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-poi-x3",
+                "name": "Monólito Salvador",
+                "description": "Este imponente monólito, com 200 blocos de altura, rasga a paisagem (e as nuvens) com a sua estonteante altitude. Serve de importante marco de entrada para o país das Cavacas, e contém umas enormes cascatas que formam um pequeno lago no seu sopé. Acompanhado duma larga praia, é um local popular para turistas e aventureiros."
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.460667,
+                    -44.95462
+                ]
+            }
         }
     ]
 }

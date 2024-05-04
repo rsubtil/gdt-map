@@ -154,6 +154,62 @@ var islands = {
                     -52.859375
                 ]
             }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-ilha-x1",
+                "name": "Ilha de Canaveses"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    14.882813,
+                    -38.867187
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-ilha-x2",
+                "name": "Ilha Galafura"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    8.25,
+                    -36.375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-ilha-x3",
+                "name": "Tresminas"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    26.15625,
+                    -32.4375
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-ilheu-x1",
+                "name": "Ilhéu Gouveia"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    29.164063,
+                    -26.539062
+                ]
+            }
         }
     ]
 }

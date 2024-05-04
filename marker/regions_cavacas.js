@@ -1367,8 +1367,10 @@ var regions_cavacas = {
             "type": "Feature",
             "properties": {
                 "id": "cavacas - r4",
-                "name": "Região 4",
-                "color": "#54eef7"
+                "name": "Couraça",
+                "color": "#54eef7",
+                "description": "A Couraça é uma região que faz fronteira predominantemente com o Mar de ??? e com a Aletria, sendo uma região predominantemente verde, repleta de florestas, e com uma larga planície ao norte. Embora não possua uma grande diversidade de fenómenos geográficos, não deixa de ter algumas formações interessantes, como o seu impressionante Monólito Salvador e as cataratas do mesmo nome.",
+                "image_id": "cavacas-r4-planalto-x1"
             },
             "geometry": {
                 "type": "Polygon",
@@ -1830,8 +1832,10 @@ var regions_cavacas = {
             "type": "Feature",
             "properties": {
                 "id": "cavacas - r4",
-                "name": "Região 4",
-                "color": "#54eef7"
+                "name": "Couraça",
+                "color": "#54eef7",
+                "description": "A Couraça é uma região que faz fronteira predominantemente com o Mar de ??? e com a Aletria, sendo uma região predominantemente verde, repleta de florestas, e com uma larga planície ao norte. Embora não possua uma grande diversidade de fenómenos geográficos, não deixa de ter algumas formações interessantes, como o seu impressionante Monólito Salvador e as cataratas do mesmo nome.",
+                "image_id": "cavacas-r4-planalto-x1"
             },
             "geometry": {
                 "type": "Polygon",
@@ -2017,8 +2021,10 @@ var regions_cavacas = {
             "type": "Feature",
             "properties": {
                 "id": "cavacas - r4",
-                "name": "Região 4",
-                "color": "#54eef7"
+                "name": "Couraça",
+                "color": "#54eef7",
+                "description": "A Couraça é uma região que faz fronteira predominantemente com o Mar de ??? e com a Aletria, sendo uma região predominantemente verde, repleta de florestas, e com uma larga planície ao norte. Embora não possua uma grande diversidade de fenómenos geográficos, não deixa de ter algumas formações interessantes, como o seu impressionante Monólito Salvador e as cataratas do mesmo nome.",
+                "image_id": "cavacas-r4-planalto-x1"
             },
             "geometry": {
                 "type": "Polygon",

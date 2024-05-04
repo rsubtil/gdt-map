@@ -42,6 +42,34 @@ var villages = {
                     -65.335937
                 ]
             }
-        }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-vila-x1",
+                "name": "Vila Outarca"
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    21.601563,
+                    -19.851562
+                ]
+            }
+        },
+        {
+            "type": "Feature",
+            "properties": {
+                "id": "cavacas-r4-naufragio-x1",
+                "name": "Naufrágio das Tresminas",
+            },
+            "geometry": {
+                "type": "Point",
+                "coordinates": [
+                    23.53125,
+                    -33.242187
+                ]
+            }
+        },
     ]
 }
